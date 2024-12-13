@@ -65,3 +65,11 @@ This project uses a combination of tools, libraries, and APIs to enable the vari
 
 ### Improvement 1: Implementing a more sophisticated emotion detection model that can recognize a broader range of emotions.
 **Recommendation**: Use advanced sentiment analysis or multimodal emotion detection models to capture deeper nuances in both text and speech.
+
+
+
+
+
+https://github.com/user-attachments/assets/1b519ac4-f06c-4975-b824-35a847d2b61a
+
+
